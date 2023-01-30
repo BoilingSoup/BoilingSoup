@@ -1,4 +1,12 @@
-### Hi there 🐸
+### Hiiiiiya 🐸
+
+- 💻 I like to develop with:
+  - Typescript
+  - React & NextJS
+  - Laravel
+  - SQL
+- 🌱 I’m currently learning Go
+- 💭 I'm interested in algorithms & diving deeper into Redis beyond a key-val store
 
 <!--
 **BoilingSoup/BoilingSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
