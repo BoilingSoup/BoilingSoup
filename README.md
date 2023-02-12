@@ -5,7 +5,6 @@
   - React & NextJS
   - Laravel
   - SQL
-- 🌱 I’m currently learning Go
 - 💭 I'd like to learn about distributed systems
 
 <!--
