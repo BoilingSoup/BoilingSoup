@@ -5,6 +5,9 @@
   - React & NextJS
   - Laravel
   - SQL
+- 🌱 I'm currently learning NestJS ![New Project (3)](https://user-images.githubusercontent.com/84747244/218929383-e8f3c587-9282-496b-9b28-0f878bb20c0d.png)
+
+
 - 💭 I'd like to learn about distributed systems
 
 <!--
