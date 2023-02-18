@@ -5,10 +5,15 @@
   - React & NextJS
   - Laravel
   - SQL
-- 🌱 I'm currently learning NestJS ![New Project (3)](https://user-images.githubusercontent.com/84747244/218929383-e8f3c587-9282-496b-9b28-0f878bb20c0d.png)
+  
+- 🌱 I'm currently learning NestJS <picture>
+  <img alt="Image Alt Text" src="https://user-images.githubusercontent.com/84747244/218929383-e8f3c587-9282-496b-9b28-0f878bb20c0d.png">
+</picture>
 
+- 💭 I'd like to learn about
 
-- 💭 I'd like to learn about distributed systems
+  - Distributed systems
+  - NoSQL
 
 <!--
 **BoilingSoup/BoilingSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
