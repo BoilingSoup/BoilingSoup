@@ -9,6 +9,8 @@
 - 🌱 I'm currently learning NestJS <picture>
   <img alt="Image Alt Text" src="https://user-images.githubusercontent.com/84747244/218929383-e8f3c587-9282-496b-9b28-0f878bb20c0d.png">
 </picture>
+<!-- ![image](https://user-images.githubusercontent.com/84747244/219901857-8b56d501-7ed8-4222-aebd-ebca655dac59.png) -->
+
 
 - 💭 I'd like to learn about
 
