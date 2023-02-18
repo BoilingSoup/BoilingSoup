@@ -6,9 +6,8 @@
   - Laravel
   - SQL
   
-- 🌱 I'm currently learning NestJS <picture>
-  <img alt="Image Alt Text" src="https://github.com/BoilingSoup/readme-icons/raw/master/nestjs.png">
-</picture>
+- 🌱 I'm currently learning NestJS [![image](https://user-images.githubusercontent.com/84747244/219902075-fc51cd42-9e9b-4256-8c4c-90ce2e71af5e.png)](#)
+
 
 
 - 💭 I'd like to learn about
