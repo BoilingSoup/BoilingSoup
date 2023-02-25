@@ -6,7 +6,8 @@
   - Laravel
   - SQL
   
-- 🌱 I'm currently learning NestJS [![image](https://user-images.githubusercontent.com/84747244/219902075-fc51cd42-9e9b-4256-8c4c-90ce2e71af5e.png)](#)
+- 🌱 I'm currently learning Go
+<!-- NestJS [![image](https://user-images.githubusercontent.com/84747244/219902075-fc51cd42-9e9b-4256-8c4c-90ce2e71af5e.png)](#) -->
 
 
 
