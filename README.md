@@ -2,7 +2,7 @@
 
 - 💻 I like to develop with:
   - Typescript
-  - React & NextJS
+  - React
   - Laravel
   - SQL
   
