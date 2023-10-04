@@ -11,9 +11,9 @@
 
 
 
-- 💭 I'd like to learn about: 
+- 💭 I'd like to learn about:
+  - Figma
   - Distributed systems
-  - GraphQL
 
 <!--
 **BoilingSoup/BoilingSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
