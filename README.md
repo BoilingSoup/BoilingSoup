@@ -7,14 +7,15 @@
   - SQL
   
 - 🌱 I'm currently learning
-  - Figma
+  - Kubernetes (with MiniKube)
   - Go
 <!-- NestJS [![image](https://user-images.githubusercontent.com/84747244/219902075-fc51cd42-9e9b-4256-8c4c-90ce2e71af5e.png)](#) -->
 
 
 
 - 💭 I'd like to learn about:
-  - Distributed systems
+  - System Design
+  - Figma
 
 <!--
 **BoilingSoup/BoilingSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
