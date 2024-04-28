@@ -13,7 +13,7 @@
 
 
 - 💭 I'd like to learn about:
-  - System Design
+  - Distributed systems
 
 <!--
 **BoilingSoup/BoilingSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
