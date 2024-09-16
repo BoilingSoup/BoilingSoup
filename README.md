@@ -4,15 +4,13 @@
   - Typescript
   - React, Svelte
   - Laravel
+  - Go
   - SQL
-  
-- 🌱 I'm currently learning:
-  - Java & Spring Boot
-
 
 
 - 💭 I'd like to learn about:
   - System Design
+  - Keycloak
 
 <!--
 **BoilingSoup/BoilingSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
