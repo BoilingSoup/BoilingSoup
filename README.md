@@ -7,8 +7,6 @@
   - Go
   - SQL
  
-- 🌱 I’m currently learning:
-  - Rust
 
 - 💭 I'd like to learn about:
   - System Design
