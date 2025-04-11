@@ -6,7 +6,9 @@
   - Laravel
   - Go
   - SQL
- 
+
+ - 🌱 I’m currently learning
+   - C++
 
 - 💭 I'd like to learn about:
   - System Design
